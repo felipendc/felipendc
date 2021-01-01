@@ -1,5 +1,8 @@
 ### Hi there, I'm Felipe Ndc a.k.a Vicyos 👋
 
+<!---
+Testing!
+--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipendc&label=Views&color=blue&style=plastic" alt="felipendc" /> 
 
 <a href="https://github.com/felipendc">
