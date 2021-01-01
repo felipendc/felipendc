@@ -19,7 +19,7 @@
 - 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	
 - 😄  Fun fact: I can't code without listening to music :desktop_computer::trackball::headphones: and I love to binge-watch Movies and TV Series. :tv::pizza:	
 
-**I'm currently learning:**  
+**I'm currently playing around with:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
