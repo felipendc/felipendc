@@ -34,5 +34,5 @@ Testing!
 </a>
 
 <a href="https://github.com/felipendc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipendc&show_icons=true&theme=light&line_height=27" alt="Vicyos's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipendc&show_icons=true&theme=light&line_height=27" alt="Vicyos' github stats"/>
 </a>
