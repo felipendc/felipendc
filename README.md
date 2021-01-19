@@ -15,7 +15,7 @@ Testing!
   
 [![GitHub Felipe Ndc](https://img.shields.io/github/followers/felipendc?label=follow&style=social)](https://github.com/felipendc)
 
-- 🖥️🖱️ I'm currently using Arch-based Linux distros and Windows 10
+- 🖥️🖱️ I'm currently using Arch and Debian based Linux distros and Windows 10
 - 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	
 - 🌱 I’m currently playing around with Flutter, Dart and Bash. :dart:	
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh and Flutter related stuff. :sunglasses:	
