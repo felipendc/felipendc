@@ -17,7 +17,7 @@ Testing!
 
 - 🖥️🖱️ I'm currently using Arch and Debian based Linux distros and Windows 10
 - 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	
-- 🌱 I’m currently playing around with Flutter, Dart and Bash. :dart:	
+- 🌱 I’m currently playing around with some programming languages.
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh and Flutter related stuff. :sunglasses:	
 - 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	
 - 😄  Fun fact one: I can't code without listening to music :desktop_computer::trackball::headphones: and I love to binge-watch Movies and TV Series. :tv::pizza:	
