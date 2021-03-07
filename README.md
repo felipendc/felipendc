@@ -20,7 +20,7 @@ Testing!
 - 🌱 I’m currently playing around with some programming languages.
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh, and Flutter related stuff. :sunglasses:	
 - 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	
-- 😄  Fun fact one: I can't code without listening to music, :desktop_computer::trackball::headphones:, I love to binge-watch Movies and TV Series. :tv::pizza:	
+- 😄  Fun fact one: I can't code without listening to music, :desktop_computer::trackball::headphones: and I love to binge-watch Movies and TV Series. :tv::pizza:	
 - 😄  Fun fact two: I love languages, but at the moment, I decided to focus only on Brazilian Portuguese and English because learning a new language takes a lot of time, bruh. :sweat_smile: 
 
 **I'm currently playing around with:**  
