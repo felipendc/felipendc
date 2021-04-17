@@ -15,7 +15,7 @@ Testing!
   
 [![GitHub Felipe Ndc](https://img.shields.io/github/followers/felipendc?label=follow&style=social)](https://github.com/felipendc)
 
-- 🖥️🖱️ I'm currently dualbooting Fedora 34 with Windows 10.
+- 🖥️🖱️ I'm currently dualbooting Fedora 34 with [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) & Windows 10.
 - 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	
 - 🌱 I’m currently playing around with some programming languages.
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh, and Flutter related stuff. :sunglasses:	
