@@ -19,7 +19,7 @@ Testing!
 - 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	
 - 🌱 I’m currently playing around with some programming languages.
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh, and Flutter related stuff. :sunglasses:	
-- 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	
+- 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	[It's archived temporarily]
 - 😄  Fun fact one: I can't code without listening to music, :desktop_computer::trackball::headphones: and I love to binge-watch Movies and TV Series. :tv::pizza:	
 - 😄  Fun fact two: I love languages, but at the moment, I decided to focus only on Brazilian Portuguese and English because learning a new language takes a lot of time, bruh. :sweat_smile: 
 
