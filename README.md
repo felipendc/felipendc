@@ -19,7 +19,7 @@ Testing!
 - 🖥️🖱️ I'm currently dualbooting Fedora 34 with [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) & Windows 10.
 
 --->
-- 🖥️🖱️ I'm currently dualbooting Ubuntu 21.10 Impish Indri (development branch) & Windows 10 Pro... Windows 11 is comming soon!.
+- 🖥️🖱️ I'm currently dualbooting Zorin 16 & Windows 11 Pro...
 - 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	
 - 🌱 I’m currently playing around with some programming languages.
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh, and Flutter related stuff. :sunglasses:	
