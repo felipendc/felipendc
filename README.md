@@ -6,7 +6,7 @@
 </a> </br></br>
 
 - 🖥️🖱️ I'm currently dualbooting Ubuntu 21.10 & Windows 11 Pro...
-- 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	
+<!-- - 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	 -->
 - 🌱 I’m currently playing around with some programming languages.
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh, and Flutter related stuff. :sunglasses:	
 - 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	[It's archived temporarily]
