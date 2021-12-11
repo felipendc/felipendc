@@ -1,24 +1,14 @@
-### Hi there, I'm Felipe Ndc a.k.a Vicyos 👋
+### Hi there, this is VicyosLife's github profile 👋
 
-<!---
-Testing!
---->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipendc&label=Views&color=blue&style=plastic" alt="felipendc" /> 
 
 <a href="https://github.com/felipendc">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+  <img align="left" alt="vicyoslife-github-followers" width="63" src="https://img.shields.io/github/followers/felipendc?label=follow&style=social)" /> 
+  <img align="left" alt="vicyoslife-github-views" width="88.5" src="https://komarev.com/ghpvc/?username=felipendc&label=Views&color=blue&style=plastic" />
+</a> </br></br>
 
-<a href="https://www.youtube.com/playlist?list=PLEHnzNeoCcNzT-ZpVu7aywVocaxr7XgNS">
-  <img align="left" alt="Vicyos's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-  
-[![GitHub Felipe Ndc](https://img.shields.io/github/followers/felipendc?label=follow&style=social)](https://github.com/felipendc)
 
-  <!---
-- 🖥️🖱️ I'm currently dualbooting Fedora 34 with [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) & Windows 10.
 
---->
+
 - 🖥️🖱️ I'm currently dualbooting Zorin 16 & Windows 11 Pro...
 - 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	
 - 🌱 I’m currently playing around with some programming languages.
@@ -33,11 +23,3 @@ Testing!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<a href="https://github.com/felipendc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipendc&theme=light&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/felipendc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipendc&show_icons=true&theme=light&line_height=27" alt="Vicyos' github stats"/>
-</a>
