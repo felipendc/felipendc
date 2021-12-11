@@ -1,4 +1,4 @@
-### Hi there, this is VicyosLife's github profile: 👋
+### Hi there, this is a little bit about me: 👋
 
 <a href="https://github.com/felipendc">
   <img align="left" alt="vicyoslife-github-followers" width="63" src="https://img.shields.io/github/followers/felipendc?label=follow&style=social)" /> 
