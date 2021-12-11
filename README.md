@@ -1,4 +1,9 @@
-### Hi there, this is VicyosLife's github profile 👋
+### Hi there, this is VicyosLife's github profile: 👋
+
+<a href="https://github.com/felipendc">
+  <img align="left" alt="vicyoslife-github-followers" width="63" src="https://img.shields.io/github/followers/felipendc?label=follow&style=social)" /> 
+  <img align="left" alt="vicyoslife-github-views" width="88.5" src="https://komarev.com/ghpvc/?username=felipendc&label=Views&color=blue&style=plastic" />
+</a> </br></br>
 
 - 🖥️🖱️ I'm currently dualbooting Zorin 16 & Windows 11 Pro...
 - 🔭 I’m currently working on some personal tech projects. :gear:	:wrench::lock:	
@@ -14,8 +19,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<a href="https://github.com/felipendc">
-  <img align="left" alt="vicyoslife-github-followers" width="63" src="https://img.shields.io/github/followers/felipendc?label=follow&style=social)" /> 
-  <img align="left" alt="vicyoslife-github-views" width="88.5" src="https://komarev.com/ghpvc/?username=felipendc&label=Views&color=blue&style=plastic" />
-</a> </br></br>
