@@ -11,7 +11,7 @@
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh, and Flutter related stuff. :sunglasses:	
 - 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	[It's archived temporarily]
 - 😄  Fun fact one: I can't code without listening to music, :desktop_computer::trackball::headphones: and I love to binge-watch Movies and TV Series. :tv::pizza:	
-- 😄  Fun fact two: I love languages, but at the moment, I decided to focus only on Brazilian Portuguese and English because learning a new language takes a lot of time, bruh. :sweat_smile: 
+- 😄  Fun fact two: I love languages, but at the moment, I decided to focus only on Brazilian Portuguese and English because learning a new language takes a lot of time. :sweat_smile: 
 
 **I'm currently playing around with:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
