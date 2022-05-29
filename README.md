@@ -6,7 +6,7 @@
 </a> </br></br>
 
 - 🖥️🖱️ I'm currently dualbooting Ubuntu 22.04 LTS & Windows 10 Pro...
-- 🌱 I’m currently playing around with some programming languages.
+- 🌱 I’m not currently playing around with some programming languages.
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh, and Flutter related stuff. :sunglasses:	
 - 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	[It's temporarily archived]
 - 😄  Fun fact one: I can't code without listening to music, :desktop_computer::trackball::headphones: and I love to binge-watch Movies and TV Series. :tv::pizza:	
