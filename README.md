@@ -5,7 +5,7 @@
   <img align="left" alt="vicyoslife-github-views" width="88.5" src="https://komarev.com/ghpvc/?username=felipendc&label=Views&color=blue&style=plastic" />
 </a> </br></br>
 
-- 🖥️🖱️ I'm currently dualbooting Ubuntu 22.04 LTS & Windows 10 Pro...
+- 🖥️🖱️ I'm currently running Windows 11 Pro...
 - 🌱 I’m not currently playing around with some programming languages.
 - 💬 Ask me about: Android Custom Roms, Linux Distros, Windows, Hackintosh, and Flutter related stuff. :sunglasses:	
 - 📫 Personal Projects: :fire:	[VicyosLinux Distros](https://github.com/felipendc/vicyos-build-folder) :fire:	[It's temporarily archived]
